@@ -99,7 +99,7 @@ UNC Greensboro,52,Auto,2018
 Montana,56,Auto,2018
 Lipscomb,59,Auto,2018
 North Carolina Central,67,Auto,2018
-SWAC,68,Auto,2018
+Texas Southern,68,Auto,2018
 Villanova,2,Auto,2018
 Purdue,7,At-large,2018
 Texas Tech,12,At-large,2018
@@ -111,13 +111,13 @@ Virginia Tech,31,At-large,2018
 Alabama,36,At-large,2018
 Butler,33,At-large,2018
 St. Bonaventure,42,At-large,2018
-Pac-12,41,At-large,2018
+UCLA,41,At-large,2018
 Murray State,50,Auto,2018
 Marshall,54,Auto,2018
 Stephen F. Austin,58,Auto,2018
 Cal State Fullerton,61,Auto,2018
 LIU Brooklyn,66,Auto,2018
-Big South,65,Auto,2018
+Radford,65,Auto,2018
 Kansas,3,Auto,2018
 Duke,6,At-large,2018
 Michigan State,9,At-large,2018
@@ -129,7 +129,7 @@ Seton Hall,29,At-large,2018
 NC State,37,At-large,2018
 Oklahoma,40,At-large,2018
 Arizona State,43,At-large,2018
-ACC,44,At-large,2018
+Syracuse,44,At-large,2018
 New Mexico State,47,Auto,2018
 College of Charleston,53,Auto,2018
 Bucknell,55,Auto,2018
@@ -146,13 +146,13 @@ Wisconsin,29,At-Large,2017
 Virginia Tech,36,At-Large,2017
 Marquette,39,At-Large,2017
 Providence,42,At-Large,2017
-Pac-12,45,At-Large,2017
+USC,45,At-Large,2017
 UNC Wilmington,49,Auto,2017
 East Tennessee State,52,Auto,2017
 New Mexico State,55,Auto,2017
 Troy,60,Auto,2017
 Mount St. Mary's,68,Auto,2017
-Southland,67,Auto,2017
+New Orleans,67,Auto,2017
 Gonzaga,4,Auto,2017
 Arizona,6,Auto,2017
 Florida State,10,At-Large,2017
@@ -185,7 +185,7 @@ Vermont,53,Auto,2017
 Iona,58,Auto,2017
 Jacksonville State,61,Auto,2017
 North Carolina Central,66,Auto,2017
-Big West,65,Auto,2017
+UC Davis,65,Auto,2017
 North Carolina,3,At-Large,2017
 Kentucky,5,Auto,2017
 UCLA,11,At-Large,2017
@@ -197,9 +197,77 @@ Arkansas,31,At-Large,2017
 Seton Hall,34,At-Large,2017
 Wichita State,38,Auto,2017
 Kansas State,46,At-Large,2017
-ACC,43,At-Large,2017
+Syracuse,43,At-Large,2017
 Middle Tennessee,48,Auto,2017
 Winthrop,54,Auto,2017
 Kent State,57,Auto,2017
 Northern Kentucky,59,Auto,2017
 Texas Southern,63,Auto,2017
+Kansas,1,Auto,2016
+Villanova,7,At-large,2016
+Miami,10,At-large,2016
+California,14,At-large,2016
+Maryland,19,At-large,2016
+Arizona,23,At-large,2016
+Iowa,27,At-large,2016
+Colorado,30,At-large,2016
+UConn,36,Auto,2016
+Temple,38,At-large,2016
+Vanderbilt,41,At-large,2016
+Wichita State,43,At-large,2016
+South Dakota State,50,Auto,2016
+Hawaii,52,Auto,2016
+Buffalo,56,Auto,2016
+UNC Asheville,61,Auto,2016
+Austin Peay,63,Auto,2016
+Oregon,4,Auto,2016
+Oklahoma,6,At-large,2016
+Texas A&M,12,At-large,2016
+Duke,13,At-large,2016
+Baylor,20,At-large,2016
+Texas,21,At-large,2016
+Oregon State,28,At-large,2016
+Saint Joseph's,32,Auto,2016
+Cincinnati,35,At-large,2016
+VCU,40,At-large,2016
+Northern Iowa,46,Auto,2016
+Yale,49,Auto,2016
+UNC Wilmington,51,Auto,2016
+Green Bay,55,Auto,2016
+Cal State Bakersfield,60,Auto,2016
+Holy Cross,68,Auto,2016
+Southern,67,Auto,2016
+North Carolina,2,Auto,2016
+Xavier,8,At-large,2016
+West Virginia,9,At-large,2016
+Kentucky,15,Auto,2016
+Indiana,17,At-large,2016
+Notre Dame,22,At-large,2016
+Wisconsin,25,At-large,2016
+USC,31,At-large,2016
+Providence,33,At-large,2016
+Pittsburgh,37,At-large,2016
+Michigan,42,At-large,2016
+Tulsa,45,At-large,2016
+Chattanooga,47,Auto,2016
+Stony Brook,53,Auto,2016
+Stephen F. Austin,58,Auto,2016
+Weber State,62,Auto,2016
+Florida Gulf Coast,65,Auto,2016
+Fairleigh Dickinson,66,Auto,2016
+Virginia,3,At-large,2016
+Michigan State,5,Auto,2016
+Utah,11,At-large,2016
+Iowa State,16,At-large,2016
+Purdue,18,At-large,2016
+Seton Hall,24,Auto,2016
+Dayton,26,At-large,2016
+Texas Tech,29,At-large,2016
+Butler,34,At-large,2016
+Syracuse,39,At-large,2016
+Gonzaga,44,Auto,2016
+Little Rock,48,Auto,2016
+Iona,54,Auto,2016
+Fresno State,57,Auto,2016
+Middle Tennessee,59,Auto,2016
+Hampton,64,Auto,2016

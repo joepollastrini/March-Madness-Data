@@ -39,7 +39,13 @@ for regional in regionals:
             bidType = cols[-1].text.strip()
         else:
             cols = row.find_all('td')
-            school = cols[1].text.strip()
+            #test if seed or school is first column of row (play-in games)
+            try:
+                possible = cols[0].text.replace('*', '')
+                seed = int(possible)
+                school = cols[1].text.strip()
+            except ValueError:
+                school = cols[0].text.strip()
             #parse from end of row due to play in games
             seed = cols[-1].text.strip()
             bidType = cols[-2].text.strip()
