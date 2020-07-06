@@ -3,6 +3,7 @@ Will gather data about teams in the March Madness tournament.
 1. Find list of teams in tournament and put into database
 2. Gather data for each team (ESPN, CBS, ???)
 3. Put all into one database
+4. Create one file/program that does all above, checks for data currently, saves file for viewing/data manipulation
 
 ## Improvements
 * Find better site for list of teams in each tournament (i.e. more consistent YoY)
